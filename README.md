@@ -4,7 +4,7 @@
 This project creates an infinite animated wave effect using Three.js. The waves are made of glowing, animated lines that flow continuously, creating a futuristic aesthetic.
 
 ## 📷 Preview
-
+![Image](Screenshot%202025-02-19%20155237.png)
 
 ---
 
